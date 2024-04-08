@@ -1,0 +1,15 @@
+(Ch2 = chapter 2)
+
+Finding Gnenetic variants with HTS(high throughput sequencing) Data
+In this chapter , we will cover the following steps
+
+Finding SNPs and indels in sequence data using variant tools
+Predicting open reading frames in long reference sequences
+Plotting features on genetics mapa with karyoploteR
+Finding alternative transcript isoform
+Selecting and classifying varriants with VrriantAnnotation
+Extracting information in genomic regions of interest
+Finding phenotype and genotype associations with GWAS 
+Estimating the copy number at a locus at a locus of interest....
+
+
